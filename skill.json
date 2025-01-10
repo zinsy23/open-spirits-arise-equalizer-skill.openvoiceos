@@ -1,1 +1,51 @@
-{}
+{
+    "title": "Open Spirits Arise Equalizer",
+    "url": "https://github.com/zinsy23/open-spirits-arise-equalizer-skill.openvoiceos",
+    "summary": "Opens spirits arise equalizer",
+    "short_description": "Opens spirits arise equalizer",
+    "description": "Opens spirits arise equalizer",
+    "examples": [
+        "[open|run] spirits arise equalizer"
+    ],
+    "desktopFile": false,
+    "warning": "",
+    "systemDeps": false,
+    "requirements": {
+        "python": [
+            "cdifflib",
+            "difflib",
+            "os",
+            "ovos-bus-client",
+            "ovos-utils",
+            "ovos-workshop",
+            "time"
+        ],
+        "system": {},
+        "skill": []
+    },
+    "incompatible_skills": [],
+    "platforms": [
+        "i386",
+        "x86_64",
+        "ia64",
+        "arm64",
+        "arm"
+    ],
+    "branch": "master",
+    "license": "Unknown",
+    "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg",
+    "category": "Configuration",
+    "categories": [
+        "Configuration"
+    ],
+    "tags": [
+        "Configuration"
+    ],
+    "credits": [
+        "Joseph",
+        "Zins"
+    ],
+    "skillname": "open-spirits-arise-equalizer-skill.openvoiceos",
+    "authorname": "zinsy23",
+    "foldername": null
+}
