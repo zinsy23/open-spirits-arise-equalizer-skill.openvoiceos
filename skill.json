@@ -3,9 +3,15 @@
     "url": "https://github.com/zinsy23/open-spirits-arise-equalizer-skill.openvoiceos",
     "summary": "Opens spirits arise equalizer",
     "short_description": "Opens spirits arise equalizer",
-    "description": "Opens spirits arise equalizer",
+    "description": "Opens any program or file defined in openDevices for the specific computer. Meant to be used with the route commands skill to choose which computer to open the file or program on dynamically.",
     "examples": [
-        "[open|run] spirits arise equalizer"
+        "[open|run] spirits arise equalizer",
+        "open youtube",
+        "play cyber dice",
+        "pause video",
+        "enter full screen",
+        "toggle captions",
+        "close previous tab 3 times"
     ],
     "desktopFile": false,
     "warning": "",
