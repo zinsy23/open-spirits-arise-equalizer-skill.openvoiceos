@@ -94,13 +94,14 @@ class OpenSpiritsAriseEqualizer(OVOSSkill):
         locations = []
         devices = []
 
-        routeCommands = loadDictionary("/home/pi/Documents/mycroft/command_functions.txt")
-        commandTranslations = loadDictionary("/home/pi/Documents/mycroft/computer_systems.txt")
-        openDevices = loadDictionary("/home/pi/Documents/mycroft/open_devices.txt")
+        routeCommands = loadDictionary("command_functions.txt")
+        commandTranslations = loadDictionary("computer_systems.txt")
+        openDevices = loadDictionary("open_devices.txt")
 
         file = open(openDevices[routeCommands["open"]], "r").read().split("\n")
-        addresses = open("/home/pi/Documents/mycroft/ip_address", "r").read().split("\n")
-        quantifiers = loadQuantifiers("/home/pi/Documents/mycroft/quantifiers.txt")
+        # addresses = open("/home/pi/Documents/mycroft/ip_address", "r").read().split("\n")
+        addresses = ["joseph@192.168.2.10", "zinsy23@192.168.2.12"] # placeholder for real file in above line
+        quantifiers = loadQuantifiers("quantifiers.txt")
 
         file = replaceBackslashes(file)
 

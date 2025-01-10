@@ -1,0 +1,28 @@
+this computer,nuc
+this machine,nuc
+this location,nuc
+nook,nuc
+the nook,nuc
+the primary computer,nuc
+my primary computer,nuc
+primary computer,nuc
+here,nuc
+hear,nuc
+no,nuc
+my mac,mac
+the mac,mac
+max,mac
+my macbook,mac
+the macbook,mac
+my laptop,mac
+the laptop,mac
+laptop,mac
+main computer,mainpc
+main machine,mainpc
+my main computer,mainpc
+my main machine,mainpc
+the main computer,mainpc
+the main machine,mainpc
+nuc,windows
+mainpc,windows
+mac,mac

@@ -1,0 +1,3 @@
+nuc,/home/pi/Documents/mycroft/nuc_files.txt
+mainpc,/home/pi/Documents/mycroft/mainpc_files.txt
+mac,/home/pi/Documents/mycroft/mac_files.txt

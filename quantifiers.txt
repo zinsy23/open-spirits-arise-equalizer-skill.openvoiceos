@@ -1,0 +1,41 @@
+twice,2
+2 times,2
+two times,2
+2nd,2
+second,2
+3 times,3
+thrice,3
+3 times,3
+three times,3
+3rd,3
+third,3
+4 times,4
+four times,4
+4th,4
+fourth,4
+5 times,5
+five times,5
+5th,5
+fifth,5
+6 times,6
+six times,6
+6th,6
+sixth,6
+7 times,7
+seven times,7
+7th,7
+seventh,7
+8 times,8
+eight times,8
+8th,8
+eighth,8
+9 times,9
+nine times,9
+9th,9
+nineth,9
+10 times,10
+ten times,10
+10th,10
+tenth,10
+69 times,69
+sixty nine times,69
