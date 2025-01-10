@@ -1,0 +1,7 @@
+open,nuc
+search,nuc
+typ,nuc
+backup,nuc
+volume,nuc
+what happened,nuc
+creator,nuc
