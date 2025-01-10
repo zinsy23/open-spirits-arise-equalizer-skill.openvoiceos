@@ -2,10 +2,16 @@
 Opens spirits arise equalizer
 
 ## About
-Opens spirits arise equalizer
+Opens any program or file defined in openDevices for the specific computer. Meant to be used with the route commands skill to choose which computer to open the file or program on dynamically.
 
 ## Examples
 * "[open|run] spirits arise equalizer"
+* "open youtube"
+* "play cyber dice"
+* "pause video"
+* "enter full screen"
+* "toggle captions"
+* "close previous tab 3 times"
 
 ## Credits
 Joseph Zins
