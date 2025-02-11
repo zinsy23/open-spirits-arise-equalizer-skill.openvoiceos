@@ -77,8 +77,8 @@ def replaceBackslashes(file):
     return file
 
 class OpenSpiritsAriseEqualizer(OVOSSkill):
-    def __init__(self):
-        MycroftSkill.__init__(self)
+    def __init__(self, *args, **kwargs):
+        OVOSSkill.__init__(self, *args, **kwargs)
 
     def initialize(self):
         global client
