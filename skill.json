@@ -18,13 +18,9 @@
     "systemDeps": false,
     "requirements": {
         "python": [
-            "cdifflib",
-            "difflib",
-            "os",
             "ovos-bus-client",
             "ovos-utils",
-            "ovos-workshop",
-            "time"
+            "ovos-workshop"
         ],
         "system": {},
         "skill": []
